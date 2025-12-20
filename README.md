@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wellens Rufus - Frontend Developer Portfolio
 
-## Getting Started
+![Portfolio Preview](https://image.thum.io/get/width/1200/crop/600/https://wellens-rufus-portfolio.vercel.app/)
 
-First, run the development server:
+[Live Demo](https://wellens-rufus-portfolio.vercel.app/) | [Download Resume](https://wellens-rufus-portfolio.vercel.app/Rufus_Resume.pdf)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💻 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Hi! I'm **Wellens Rufus**, a Frontend Web Developer based in Nigeria with over **3 years of experience**. I specialize in building pixel-perfect, accessible, and high-performance web applications using the modern React ecosystem.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I believe that great development is invisible—it’s the smooth animation, the instant load time, and the intuitive layout that lets the user focus entirely on the content.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tech Stack & Tools
 
-## Learn More
+* **Frontend Frameworks:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+* **Styling:** ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+* **Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+* **Design & Tools:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+* **Dark Mode Support:** Seamless theme switching with persistent state.
+* **Animations:** Smooth scroll and entrance animations powered by Framer Motion.
+* **Contact Form:** Functional email submission integrated with Web3Forms.
+* **Project Showcase:** Dynamic grid layout displaying recent works and case studies.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📂 Projects Highlights
 
-## Deploy on Vercel
+Here are a few of the projects featured in this portfolio:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Project | Description | Live Link |
+| :--- | :--- | :--- |
+| **Sawtrax Glo** | Glo Iseb landing page with modern UI/UX. | [View Live](https://sawtrax-glo-website.netlify.app/) |
+| **Wellens Consulting** | Professional consulting service landing page. | [View Live](https://wellens-consulting.netlify.app/) |
+| **Crypto App** | Real-time cryptocurrency tracking dashboard. | [View Live](https://bitcoin-app-one.vercel.app/) |
+| **Natours Project** | Tours booking landing page for travel agencies. | [View Live](https://rufus-natours-project.netlify.app/) |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 💼 Professional Experience
+
+I have collaborated with diverse tech companies to build scalable web solutions:
+
+* **Sawtrax Limited** – Corporate website development (User Experience & Accessibility focus).
+* **SMSAM System Ltd** – Dynamic e-commerce platform for tech products.
+* **Spectrum Ltd** – Modern corporate website highlighting innovative tech solutions.
+* **Number One Geeks Hubs** – Community-focused tech hub website.
+
+## 🛠️ Getting Started
+
+To run this project locally, follow these steps:
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/Rufuscsc/portfolio.git](https://github.com/Rufuscsc/portfolio.git)
+    cd portfolio
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
+
+4.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 📬 Contact
+
+I'd love to hear from you! Whether you have a question or just want to say hi, feel free to drop a message.
+
+* 📧 **Email:** [rufusmfmwellens@gmail.com](mailto:rufusmfmwellens@gmail.com)
+* 🐦 **Twitter:** [@Rufus_well](https://x.com/Rufus_well)
+* 💼 **LinkedIn:** [Rufus Wellens](https://www.linkedin.com/in/rufus-well-021928225/)
+* 🐙 **GitHub:** [Rufuscsc](https://github.com/Rufuscsc)
+
+---
+
+© 2025 Wellens Rufus. All rights reserved.
