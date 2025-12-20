@@ -20,7 +20,6 @@ import spectrum from "./spectrum.png";
 import spectrum_darkmode from "./spectrum_darkmode.png";
 import figma from "./figma.png";
 import git from "./git.png";
-import mongodb from "./mongodb.png";
 import flutter from "./flutter.png";
 import right_arrow_white from "./right-arrow-white.png";
 import logo from "./logo.png";
@@ -29,7 +28,6 @@ import mail_icon from "./mail_icon.png";
 import mail_icon_dark from "./mail_icon_dark.png";
 import profile_img from "./profile-img.jpg";
 import download_icon from "./download-icon.png";
-import hand_icon from "./hand-icon.png";
 import header_bg_color from "./header-bg-color.png";
 import moon_icon from "./moon_icon.png";
 import sun_icon from "./sun_icon.png";
@@ -66,7 +64,6 @@ export const assets = {
   vscode,
   figma,
   git,
-  mongodb,
   right_arrow_white,
   logo,
   logo_dark,
@@ -74,7 +71,6 @@ export const assets = {
   mail_icon_dark,
   profile_img,
   download_icon,
-  hand_icon,
   header_bg_color,
   moon_icon,
   sun_icon,
