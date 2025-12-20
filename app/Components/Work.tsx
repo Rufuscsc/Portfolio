@@ -1,5 +1,4 @@
 import { assets, workData } from "@/assets/assets";
-import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "motion/react";
@@ -58,14 +57,13 @@ const Work = ({ isDarkMode }: { isDarkMode: boolean }) => {
               <motion.div
                 whileHover={{ y: -5 }}
                 transition={{ duration: 0.3 }}
-                // 1. Updated Background and Border for Dark Mode
                 className={`flex flex-col h-full rounded-xl shadow-md overflow-hidden cursor-pointer group border ${
                   isDarkMode
                     ? "bg-dark-theme border-gray-700 hover:bg-dark-hover"
                     : "bg-white border-gray-100"
                 }`}
               >
-                {/* Top Section: Image */}
+               
                 <div className="relative h-48 w-full">
                   <Image
                     src={project.bgImage}
@@ -75,10 +73,10 @@ const Work = ({ isDarkMode }: { isDarkMode: boolean }) => {
                   />
                 </div>
 
-                {/* Bottom Section: Text Content & Icon */}
+                
                 <div className="p-4 flex flex-col justify-between flex-grow">
                   <div>
-                    {/* 2. Updated Title Text Color */}
+          
                     <h2
                       className={`font-semibold text-lg truncate ${
                         isDarkMode ? "text-white" : "text-black"
@@ -86,7 +84,7 @@ const Work = ({ isDarkMode }: { isDarkMode: boolean }) => {
                     >
                       {project.title}
                     </h2>
-                    {/* 3. Updated Description Text Color */}
+                   
                     <p
                       className={`text-sm mt-1 line-clamp-2 ${
                         isDarkMode ? "text-gray-300" : "text-gray-600"

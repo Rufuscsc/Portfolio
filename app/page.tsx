@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar";
 import Work from "./Components/Work";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
-import { use, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Experience from "./Components/Experience";
 
 export default function Home() {
