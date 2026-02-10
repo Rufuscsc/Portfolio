@@ -1,6 +1,6 @@
 # Wellens Rufus - Frontend Developer Portfolio
 
-![Portfolio Preview](https://image.thum.io/get/width/1200/crop/600/https://wellens-rufus-portfolio.vercel.app/)
+![Portfolio Preview](./assets/port.gif)
 
 [Live Demo](https://wellens-rufus-portfolio.vercel.app/) | [Download Resume](https://wellens-rufus-portfolio.vercel.app/Rufus_Resume.pdf)
 
@@ -8,7 +8,7 @@
 
 Hi! I'm **Wellens Rufus**, a Frontend Web Developer based in Nigeria with over **3 years of experience**. I specialize in building pixel-perfect, accessible, and high-performance web applications using the modern React ecosystem.
 
-I believe that great development is invisible—it’s the smooth animation, the instant load time, and the intuitive layout that lets the user focus entirely on the content.
+I believe that great development is the smooth animation, the instant load time, and the intuitive layout that lets the user focus entirely on the content.
 
 ## 🚀 Tech Stack & Tools
 
