@@ -40,7 +40,7 @@ const Navbar = ({
         <Image src={assets.header_bg_color} alt="" className="w-full"></Image>
       </div>
       <nav
-        className={`w-full fixed px-5 lg:px-8 xl:px-[8%] h-22 flex items-center justify-between z-50 transition-all duration-300 ${isScroll ? "bg-[var(--nav-bg)] backdrop-blur-lg shadow-sm dark:shadow-white/20" : ""}`}
+        className={`w-full fixed px-5 lg:px-8 xl:px-[8%] h-22 flex items-center justify-between z-50 transition-all duration-300 ${isScroll ? "bg-(--nav-bg) backdrop-blur-lg shadow-sm dark:shadow-white/20" : ""}`}
       >
         <a href="">
           <Image
