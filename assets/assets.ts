@@ -46,9 +46,9 @@ import send_icon from "./send-icon.png";
 import dark_send_icon from "./whitearrow.png";
 import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
-import glo from "./glo.png";
+import zbook from "./zbooks.png";
 import wellens_consulting from "./well.png";
-import crypto_app from "./crypto.jpeg";
+import skillshub from "./Skillhub.png";
 import natours from "./nature.png";
 import number_one from "./number_one.jpg";
 import number_one_darkmode from "./number_one_darkmode.png";
@@ -108,10 +108,10 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Sawtraw Glo Isebwebsite",
-    description: "Glo Iseb landing page",
-    bgImage: glo,
-    link: "https://sawtrax-glo-website.netlify.app/",
+    title: "Skillshub",
+    description: "A website for interaction and communication with members of similar community",
+    bgImage: skillshub,
+    link: "https://skillsforgehub.vercel.app/",
   },
   {
     title: "Wellens Consulting",
@@ -120,10 +120,10 @@ export const workData = [
     link: "https://wellens-consulting.netlify.app/",
   },
   {
-    title: "Crypto app",
-    description: "Crypto webapp preview",
-    bgImage: crypto_app,
-    link: "https://bitcoin-app-one.vercel.app/",
+    title: "Zbooks",
+    description: "A book library were you can upload books for people to read and sell it",
+    bgImage: zbook,
+    link: "https://skillsforgehub.vercel.app/",
   },
   {
     title: "Natours Project",
@@ -168,8 +168,8 @@ export const infoList = [
   {
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
-    title: "Languages",
-    description: "HTML, CSS, JavaScript React Js, Next Js",
+    title: "Skills",
+    description: "React, Node.js, Express, Next.js, Supabase, Web Bluetooth, flutter",
   },
   {
     icon: assets.edu_icon,
@@ -191,4 +191,5 @@ export const getToolsData = (isDarkMode: boolean) => [
   assets.react,
   assets.figma,
   assets.git,
+  assets.flutter
 ];

@@ -62,15 +62,15 @@ const About = ({ isDarkMode }: { isDarkMode: boolean }) => {
             transition={{ duration: 0.6, delay: 0.7 }}
             className="mb-10 max-w-2xl font-Ovo"
           >
-            I’m a Frontend Developer with three years of experience building
-            websites that look great and work even better. I’ve spent the last
-            few years deep in the React ecosystem, using tools like Next.js and
-            Tailwind CSS to turn static designs into fast, responsive
-            applications. I’m a stickler for clean code and details. For me, web
-            development isn't just about writing functions; it's about the feel
-            of the product. I believe the best development is in the smooth
-            animation, the instant load time, and the intuitive layout that lets
-            users just focus on what they came for.
+            I’m a Software Developer with three years of experience building
+            applications that look great and work robustly. I’ve spent the last
+            few years working deeply across both frontend and backend development, using 
+            tools like React, React Native, Next.js, and Node.js with Express. I have 
+            managed complex backend architectures with Supabase, handled fault 
+            code databases, and integrated hardware like ELM327 Bluetooth adapters 
+            using the Web Bluetooth API. For me, development isn't just about writing 
+            functions; it's about building a solid product from the database to the 
+            user interface.
           </motion.p>
           <motion.ul
             initial={{ opacity: 0 }}

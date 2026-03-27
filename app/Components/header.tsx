@@ -33,7 +33,7 @@ const Header = ({ isDarkMode }: { isDarkMode: boolean }) => {
         transition={{ duration: 0.6, delay: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[40px] font-Ovo"
       >
-        frontend web developer based in Nigeria
+        full-stack software developer based in Nigeria
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
@@ -41,11 +41,10 @@ const Header = ({ isDarkMode }: { isDarkMode: boolean }) => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        I am a frontend web developer with a passion for creating beautiful,
-        functional, and user-friendly websites. I have a strong foundation in
-        HTML, CSS, and JavaScript, and I am always eager to learn new
-        technologies and techniques. My goal is to create websites that not only
-        look great but also provide an excellent user experience.
+        I am a software developer experienced in building end-to-end applications 
+        using React, React Native, and Node.js with Express. My backend expertise includes 
+        working with Supabase and fault-code databases, and I have hands-on experience developing 
+        hardware integrations like ELM327 Bluetooth adapters using the Web Bluetooth API.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
