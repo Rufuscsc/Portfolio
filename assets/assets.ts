@@ -123,7 +123,7 @@ export const workData = [
     title: "Zbooks",
     description: "A book library were you can upload books for people to read and sell it",
     bgImage: zbook,
-    link: "https://skillsforgehub.vercel.app/",
+    link: "https://zbook-flame.vercel.app/",
   },
   {
     title: "Natours Project",
